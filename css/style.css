@@ -1,0 +1,63 @@
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.give{
+    /* align-items: center;
+    justify-content: center; */
+}
+.blue{
+    margin-top: 3rem;
+    font-weight: bolder;
+    font-family: elephant;
+}
+.semicircle{
+    width: 100px;
+    height: 45px;
+    background-color:rgb(28, 28, 163);
+    border-top-left-radius: 10rem;
+    border-top-right-radius: 10rem;
+    margin: auto;
+    padding: 0.3rem;
+    color: #ffffff;
+    text-align: center;
+    font-size: 0.9rem;
+    
+}
+.big{
+    color: #ffffff;
+    
+}
+
+.recycle{
+    background-color: rgb(5, 5, 29);
+    
+}
+.form-control{
+    background-color:transparent;
+    color: #ffffff;
+    border-radius: 0 !important;
+    border-right: none !important;
+    border-top: none !important;
+    border-left: none !important;
+    margin-top: 2rem;
+    
+}
+.drop{
+    border-radius: 20rem solid #fff !important;
+}
+.arrange{
+    color: #ffffff;
+    text-align: center;
+    margin-top: 3rem;
+}
+.line{
+    margin: auto;
+    width: 15%;
+    
+    align-items: center;
+    border-bottom: 0.09rem solid rgb(28, 28, 182);
+}
+.tabs{
+    
+}
